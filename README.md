@@ -18,7 +18,7 @@ Gender
 
 SMS reminder
 
-![SMS](/Img/SMS-Reminder.png)
+![SMS](/Img/SMS-reminder.png)
 
 Health Factors
 
